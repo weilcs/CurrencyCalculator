@@ -1,0 +1,9 @@
+E:\course_materials\CPRG200\learn\change_learn\change_learn\bin\Debug\change_learn.exe.config
+E:\course_materials\CPRG200\learn\change_learn\change_learn\bin\Debug\change_learn.exe
+E:\course_materials\CPRG200\learn\change_learn\change_learn\bin\Debug\change_learn.pdb
+E:\course_materials\CPRG200\learn\change_learn\change_learn\obj\Debug\change_learn.csprojResolveAssemblyReference.cache
+E:\course_materials\CPRG200\learn\change_learn\change_learn\obj\Debug\change_learn.Form1.resources
+E:\course_materials\CPRG200\learn\change_learn\change_learn\obj\Debug\change_learn.Properties.Resources.resources
+E:\course_materials\CPRG200\learn\change_learn\change_learn\obj\Debug\change_learn.csproj.GenerateResource.Cache
+E:\course_materials\CPRG200\learn\change_learn\change_learn\obj\Debug\change_learn.exe
+E:\course_materials\CPRG200\learn\change_learn\change_learn\obj\Debug\change_learn.pdb
